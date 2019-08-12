@@ -3,7 +3,7 @@
 Hi! I'm Eli. I love technology, and do a lot. Here's some of my current work:
 
 [Amazon Alexa Skills](https://www.amazon.com/s?k=Eli+W&i=alexa-skills&ref=nb_sb_noss_2_)
-[Microsoft Student Help Center] (aka.ms/studenthelpcenter)
+[Microsoft Student Help Center](https://support.office.com/en-us/article/student-help-center-395ab230-55bf-44c6-b265-e832d729b694)
 
 
 
