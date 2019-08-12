@@ -1,4 +1,4 @@
-## Welcome to All abot Eli!
+## Welcome to All about Eli!
 
 Hi! I'm Eli. I love technology, and do a lot. Here's some of my current work:
 
@@ -7,7 +7,7 @@ Hi! I'm Eli. I love technology, and do a lot. Here's some of my current work:
 
 
 
-## Welcome to GitHub Pages
+```## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eliweitzman/EliPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,7 +35,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
