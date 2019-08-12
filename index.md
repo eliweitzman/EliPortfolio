@@ -1,3 +1,12 @@
+## Welcome to All abot Eli!
+
+Hi! I'm Eli. I love technology, and do a lot. Here's some of my current work:
+
+[Amazon Alexa Skills](https://www.amazon.com/s?k=Eli+W&i=alexa-skills&ref=nb_sb_noss_2_)
+[Microsoft Student Help Center] (aka.ms/studenthelpcenter)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eliweitzman/EliPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
